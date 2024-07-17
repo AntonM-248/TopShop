@@ -1,0 +1,19 @@
+.product-wrapper {
+  padding: 20px;
+}
+
+.card {
+  width: 270px;
+  margin-bottom: 20px
+}
+
+.custom-badge {
+  margin: 15px;
+  width: fit-content;
+  display: inline;
+}
+
+.btn {
+  width: fit-content;
+  margin: 10px;
+}
